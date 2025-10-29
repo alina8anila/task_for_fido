@@ -12,5 +12,3 @@ must be ".ebv" file with:
 WEAVIATE_URL=
 WEAVIATE_API_KEY=
 OHERE_APIKEY=
-
-git add README.md
